@@ -97,13 +97,13 @@ python client.py
 
 ---
 
-## 📈 Output Sample
+## Output Sample
 
 ![Accuracy Plot](federated_accuracy_plot.png)
 
 ---
 
-## 🛡Why Federated Learning?
+## Why Federated Learning?
 
 | Traditional ML                 | Federated Learning                        |
 | ------------------------------ | ----------------------------------------- |
